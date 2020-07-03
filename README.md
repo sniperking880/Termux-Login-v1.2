@@ -1,5 +1,5 @@
-#Bismillah
-#Assalamu-Alaikium
+#sitta ram
+# lakhan meena
 
  [+] Information :
 
@@ -21,7 +21,7 @@
 
 [+] install and use
   
-    git clone https://github.com/TechnicalMujeeb/Termux-Login.git
+    git clone https://github.com/lakhanmeena/Termux-Login.git
 
     cd Termux-Login
 
